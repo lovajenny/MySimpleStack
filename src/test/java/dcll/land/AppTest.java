@@ -1,4 +1,4 @@
-package dcll.mcie;
+package dcll.land;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

@@ -1,4 +1,4 @@
-package dcll.mcie;
+package dcll.land;
 
 /**
  * Hello world!
